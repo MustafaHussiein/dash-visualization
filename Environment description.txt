@@ -1,0 +1,10 @@
+Dash is an open source framework for building data visualization interfaces. 
+Released in 2017 as a Python library, it’s grown to include implementations for R and Julia.
+Dash helps data scientists build analytical web applications without requiring advanced web development 
+knowledge.
+
+Three technologies constitute the core of Dash:
+
+Flask supplies the web server functionality.
+React.js renders the user interface of the web page.
+Plotly.js generates the charts used in your application.
